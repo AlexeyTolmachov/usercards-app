@@ -1,0 +1,30 @@
+#root{
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+  }
+.cardWrapper{
+    box-shadow: 4px 4px 6px 5px rgba(30, 35, 39, 0.8);
+   text-align: center;
+   border-radius: 5px;
+    border: 2px solid black;
+    width: 300px;
+    min-height: 400px;
+    margin: 30px;
+    
+}
+.imgWrapper{
+ 
+    width: 100%;
+    height: 80%;
+    background-color: rgba(243, 219, 112, 0.63);
+    object-fit: cover;
+  
+   
+}
+
+.CardSpase{
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+}
